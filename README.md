@@ -1,4 +1,4 @@
-# Overview
+![image](https://github.com/user-attachments/assets/cea8855e-8043-43eb-b192-40917477790f)# Overview
 Retrieval-Augmented Generation (RAG) system designed to allow users to interact with the Federal Register dataset via a natural language interface. The system integrates a local LLM (Qwen 0.5B via Ollama), semantic search using FAISS, and a daily-updated MySQL database, enabling accurate and up-to-date responses based on real government publications.
 
 # Features
@@ -35,3 +35,14 @@ pip install -r requirements.txt
 ```
 streamlit run main.py
 ```
+
+# Example:
+
+Fedral Register DB:
+
+![DB_IMAGES](images/DB.png)
+
+RAG - BOT:
+
+![rag_bot](images/rag.png)
+
