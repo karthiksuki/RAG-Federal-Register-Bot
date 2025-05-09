@@ -1,0 +1,8 @@
+aiohttp==3.9.3
+aiomysql==0.2.0
+streamlit==1.33.0
+pymysql==1.1.0
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+openai==1.23.2
+numpy==1.26.4
